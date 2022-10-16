@@ -1,14 +1,14 @@
 # VisaForASchoolYouth
 Anime novel game.
 
-##About
+## About
 TBA
 
-##System Requirements
+## System Requirements
 TBA
 
-##Development Stack
+## Development Stack
 Core Java 18
 
-##Credits
+## Credits
 TBA
