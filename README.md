@@ -1,7 +1,7 @@
 # VisaForASchoolYouth
 Anime novel game.
 
-## About
+### About
 TBA
 
 ## System Requirements
@@ -12,3 +12,8 @@ Core Java 18
 
 ## Credits
 TBA
+ 
+## Badges  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
+
+ 
