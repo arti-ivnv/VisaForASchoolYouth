@@ -24,19 +24,19 @@ public class KeyboardInputs implements KeyListener {
         switch (e.getKeyCode()) {
             case KeyEvent.VK_W:
                 gamePanel.changeYDelta(-5);
-                System.out.println("W is pressed");
+                // System.out.println("W is pressed");
                 break;
             case KeyEvent.VK_A:
                 gamePanel.changeXDelta(-5);
-                System.out.println("A is pressed");
+                // System.out.println("A is pressed");
                 break;
             case KeyEvent.VK_S:
                 gamePanel.changeYDelta(5);
-                System.out.println("S is pressed");
+                // System.out.println("S is pressed");
                 break;
             case KeyEvent.VK_D:
                 gamePanel.changeXDelta(5);
-                System.out.println("D is pressed");
+                // System.out.println("D is pressed");
                 break;
         }
     }
