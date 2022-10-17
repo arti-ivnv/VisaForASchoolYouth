@@ -1,5 +1,6 @@
 package src.main;
 
+import javax.swing.JButton;
 import javax.swing.JFrame;
 
 public class GameWindow {
@@ -8,10 +9,11 @@ public class GameWindow {
 
     public GameWindow(GamePanel gamePanel) {
         jFrame = new JFrame();
-        jFrame.setSize(400, 400);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.add(gamePanel);
         jFrame.setLocationRelativeTo(null);
+        jFrame.pack();
+        jFrame.setResizable(false);
         // Should be at the buttom
         jFrame.setVisible(true);
 
